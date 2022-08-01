@@ -1,1 +1,1 @@
-# linktree-club-party-server
+Linktree of Club-party-server
