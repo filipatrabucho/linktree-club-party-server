@@ -2,6 +2,7 @@ body {
   text-align: center;
   margin: 0;
   font-family: "Open Sans Light", sans-serif;
+  background-color: #333;
 }
 a {
   text-decoration: none;
@@ -14,7 +15,7 @@ a {
   height: 96px;
 }
 h1 {
-  color: #333;
+  color: #fff;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 700;
@@ -41,9 +42,9 @@ h2 {
   margin: 0 auto;
   display: block;
   text-align: center;
-  border: #333 solid;
+  border: #202225 solid;
   max-width: 600px;
-  background-color: #333;
+  background-color: #202225;
   padding: 16px 20px;
   margin-bottom: 20px;
   text-decoration: none;
@@ -71,11 +72,11 @@ h2 {
 }
 
 .fa-facebook {
-  color: black;
+  color: #fff;
 }
 
 .fa-instagram {
-  color: black;
+  color: #fff;
 }
 .about {
   position: relative;
